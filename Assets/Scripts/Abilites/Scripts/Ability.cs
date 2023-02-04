@@ -1,6 +1,5 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Ability", menuName = "Ability/New Ability")]
 public class Ability : ScriptableObject
 {
     public string abilityName;
