@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: PillarAbility
   m_EditorClassIdentifier: Assembly-CSharp::PillarAbility
   abilityName: Pillar
-  cooldownTime: 1
-  activeTime: 1
-  pillarPrefab: {fileID: 7012896734645485698, guid: 47c890ca56d550b47b9093e8e4f81336, type: 3}
+  cooldownTime: 2
+  activeTime: 3
+  prefab: {fileID: 5882525250424827271, guid: 1d1148fdca9d7334296cc3c3e464d0fa, type: 3}
