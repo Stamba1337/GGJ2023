@@ -7,7 +7,7 @@ public class PillarAbility : Ability
     public override void UseAbility(GameObject parent)
     {
         // spawn the prefab at the position and rotation of the parent
-        GameObject spawnedPrefab = Instantiate(prefab, parent.transform.position + (parent.transform.forward * 3) + new Vector3(0, -0.4f, 0), Quaternion.Euler(new Vector3(-90, 0, 90)));
-        Destroy(spawnedPrefab, 5f);
+        GameObject spawnedPrefab = Instantiate(prefab, parent.transform.position + (parent.transform.forward * 2) + new Vector3(0, -0.4f, 0), Quaternion.Euler(new Vector3(-90, 0, 90)));
+        Destroy(spawnedPrefab, 7.5f);
     }
 }

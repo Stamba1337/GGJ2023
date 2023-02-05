@@ -40,5 +40,7 @@ public class RootAttack : Ability
 
         // Destroys the root attack after the specified active time from the scriptable object
         Destroy(rootAttack, activeTime);
+        
     }
+
 }

@@ -15,5 +15,6 @@ MonoBehaviour:
   abilityName: RootAtk
   cooldownTime: 1
   activeTime: 2.3
+  damage: 50
   rootAttackPrefab: {fileID: 439079786215695132, guid: 0a6cec71fb4b615479274cb00c0e64bd, type: 3}
   projectileSpeed: 15
