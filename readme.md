@@ -15,11 +15,3 @@ Creators
 Developer: Stanimir Lambov
 Artist: Hristo Denchev
 With the guidance and support of their mentors, this dynamic duo created a game that is not only visually stunning but also packed full of puzzles and discovery.
-
-How to Play
-Download the game from the repository.
-Extract the files from the .zip archive.
-Run the game executable file.
-Enjoy the game!
-Acknowledgements
-The team at Bugisoft would like to thank the Global Game Jam 2023 organizers for hosting the event and providing the theme that inspired this game. They would also like to thank their mentors for their guidance and support throughout the game jam.
