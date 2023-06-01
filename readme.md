@@ -1,17 +1,13 @@
-Echoes of the Roots
+Hey there, gaming enthusiasts! We're Stanimir Lambov and Hristo Denchev, the passionate developers behind the exhilarating adventure known as Echoes of the Roots. We're thrilled to share the story of our incredible game and take you on a journey through the ancient temple of the spirit tree.
 
-Get ready for an epic adventure as you step into the shoes of an adventurous archaeologist in Echoes of the Roots! Developed by the talented team at Buggysoft, consisting of Stanimir Lambov and Hristo Denchev, this first-person game was created for the Global Game Jam 2023 with the exciting theme of "ROOTS".
+When we first embarked on the Global Game Jam 2023, the theme of "ROOTS" ignited our imagination, fueling our creativity and setting the stage for an epic experience. As we explored the depths of the temple, we imagined a world brimming with magic and challenges, where the very trees themselves stood as formidable adversaries.
 
-Storyline
-As you explore the ancient temple of the spirit tree, you'll find yourself faced with magical trees determined to stop you. But, lucky for you, as you run from one of these powerful trees, you come across a room deep within the temple where you discover a staff with incredible power. With this staff in hand, you now have the power of the great tree and must use your wit and cunning to navigate the temple, solve puzzles, and defeat enemies on your quest to escape.
+But every hero needs a stroke of luck, and that's exactly what our protagonist finds as they stumble upon a hidden chamber deep within the temple. There, they uncover a staff of immense power—a true game-changer. Armed with this incredible artifact, players will wield the might of the great tree itself, using their wit and cunning to navigate treacherous paths, overcome mind-bending puzzles, and face off against adversaries that stand in their way.
 
-Gameplay
-In Echoes of the Roots, you'll use the powerful branch staff to command roots and plants throughout the temple, helping you solve puzzles and defeat enemies. It's a game of exploration and excitement, and the team at Bugisoft can't wait for you to experience it for yourself.
+Echoes of the Roots is a game that places exploration and excitement at its core. It's all about using the awe-inspiring branch staff to command the roots and plants scattered throughout the temple. With these newfound abilities, players can tackle puzzles and strategically defeat enemies, unlocking their path to freedom and unraveling the secrets hidden within.
 
-Technologies Used
-The game was brought to life using the versatile and feature-packed Unity engine, while the stunning low poly models with high definition textures were created using Blender. The user interface elements were crafted with care using Krita and Paint.net, ensuring a visually stunning experience.
+To bring this captivating vision to life, we harnessed the power of the versatile Unity engine. Its robust features and flexibility allowed us to craft a seamless and immersive gameplay experience. And let's not forget about the visual feast that awaits players. Hristo Denchev, our incredibly talented artist, poured his heart and soul into creating stunning low-poly models adorned with high-definition textures, all meticulously crafted using Blender. We wanted every corner of the temple to be visually striking, and we meticulously designed the user interface elements with care using Krita and Paint.net, ensuring a cohesive and awe-inspiring aesthetic.
 
-Creators
-Developer: Stanimir Lambov
-Artist: Hristo Denchev
-With the guidance and support of their mentors, this dynamic duo created a game that is not only visually stunning but also packed full of puzzles and discovery.
+At the heart of Echoes of the Roots lies our unwavering dedication to delivering a truly unforgettable gaming experience. As developers, we poured countless hours into perfecting the gameplay mechanics, balancing the challenges, and weaving a narrative that would captivate players from start to finish. This journey wouldn't have been possible without the unwavering support of our amazing mentors, who guided us through the development process and inspired us to push the boundaries of our creativity.
+
+So, gear up and prepare for an adventure that will ignite your imagination and test your skills. Echoes of the Roots is a labor of love, born from our passion for gaming and our desire to create something truly special. We invite you to join us on this thrilling quest, as we embark on a journey that will leave echoes in your heart long after you've conquered the temple's challenges.
